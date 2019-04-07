@@ -7,5 +7,9 @@ rem, rem, rem remote
 
 Change 2: change, change.
 
+<<<<<<< HEAD
 
 Change 3: more change
+=======
+Remote change 3: more change 3
+>>>>>>> refs/remotes/origin/master
