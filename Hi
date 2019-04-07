@@ -1,4 +1,9 @@
 total 0
 -rw-r--r-- 1 Castor18 197121 0 Apr  6 18:04 Hi
+<<<<<<< HEAD
 Local changes:
 Hi, hi, hi local
+=======
+Remote changes:
+rem, rem, rem remote
+>>>>>>> b91b9b84461bf37ab830700df79c7e729c67828b
